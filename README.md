@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apostolos Zlatinis</h1>
 <h3 align="center">A Computer and Information Systems Engineer from Greece.</h3>
 
-- 🔭 I’m currently working on [Dead Simple Linux Backups](https://github.com/RemiZlatinis/DSLB)
+- 🔭 I’m currently working on [Ioannis Varelidis Web Site](https://ioannis-varelidis.herokuapp.com/)
 
 - 💬 Ask me about **React, React Native, Django**
 
