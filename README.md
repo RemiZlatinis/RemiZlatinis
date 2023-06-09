@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apostolos Zlatinis</h1>
-<h3 align="center">A Computer and Information Systems Engineer from Greece.</h3>
+<h3 align="center">A Computer Scientist and Software Engineer from Greece.</h3>
 
-- 🔭 I’m currently working on [Ioannis Varelidis Web Site](https://ioannis-varelidis.herokuapp.com/)
+- 🔭 I’m currently working on [My Porfolio Site](https://my-portfolio-prototype.vercel.app/)
 
 - 💬 Ask me about **React, React Native, Django**
 
@@ -9,11 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/remiofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="remiofficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/remi zlatinis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remi zlatinis" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:11370877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:11370877" height="30" width="40" /></a>
-<a href="https://instagram.com/remiunofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="remiunofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc7j4adg1pl2o9rxkgiqnhxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7j4adg1pl2o9rxkgiqnhxa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/remi_official_prod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="remiunofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
