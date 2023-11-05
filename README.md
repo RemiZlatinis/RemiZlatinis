@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apostolos Zlatinis</h1>
 <h3 align="center">A Computer Scientist and Software Engineer from Greece.</h3>
 
-- 🔭 I’m currently working on [My Porfolio Site](https://my-portfolio-prototype.vercel.app/)
+- 🔭 This is my portfolio ([https://portfolio.remiservices.uk/])
 
 - 💬 Ask me about **React, React Native, Django**
 
