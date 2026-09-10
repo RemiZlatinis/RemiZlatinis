@@ -75,7 +75,7 @@ I can discuss the architecture, constraints, trade-offs, and outcomes of this wo
 ## Technical range
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,typescript,javascript,react,reactnative,nodejs,bash,linux,docker,postgres,mongodb,mysql,redis,git,nginx&perline=8" alt="Python, Django, TypeScript, JavaScript, React, React Native, Node.js, Bash, Linux, Docker, PostgreSQL, MongoDB, MySQL, Redis, Git, and Nginx">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,typescript,javascript,react,reactnative,nodejs,bash,linux,docker,postgres,mongodb,mysql,redis,git,nginx&perline=8" alt="Python, Django, TypeScript, JavaScript, React, React Native, Node.js, Bash, Linux, Docker, PostgreSQL, MongoDB, MySQL, Redis, Git, and Nginx">
 </p>
 
 ## Find me online
